@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alokkumar321" alt="alokkumar321" /></a> </p>
 
-- 🔭 Currently working on a ***SECRET***
+- 🔭 Currently working on * ***SECRET*** *
 
 - 🌱 Currently Exploring **Data — and a lot more**
 
